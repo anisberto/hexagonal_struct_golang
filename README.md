@@ -1,1 +1,1 @@
-# hexagonal_struct_golang
+# Golang - Definição de Estrutura
